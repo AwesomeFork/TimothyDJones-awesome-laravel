@@ -24,6 +24,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Materio Free Vuetify VueJS Laravel Admin Template](https://github.com/themeselection/materio-vuetify-vuejs-laravel-admin-template-free) - Open-source & easy to use Vuetify Vuejs Laravel Admin Template with Elegant Design & Unique Layout. \[09/30/2021\]
 - [UserFrosting](http://www.userfrosting.com) - A web framework and fully implemented user management application that uses Laravel's ORM and cache components.  The Sprinkle system allows you to easily and cleanly extend the core codebase with the custom features that your application requires.
 - [Voyager](https://github.com/the-control-group/voyager) - Comprehensive Laravel admin package with support for CRUD administration of database, menu editor, media manager and more. \[11/01/2016\]
+- [badaso](https://github.com/uasoft-indonesia/badaso) - Laravel Vue headless CMS / admin panel / dashboard / builder / API CRUD generator, anything !. \[10/11/2023\]
 
 
 ### Algorithms/Data Structures
@@ -114,7 +115,9 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [UIkit UI preset](https://github.com/Torrix/laravel-ui-uikit) - UI preset for Laravel 6 that bundles UIkit and Vue.js \[09/16/2019\]
 - [Watts](https://github.com/YABhq/Watts) - Custom configuration with tools for developing microservices using Lumen. \[05/10/2016\]
 - [Wave](https://github.com/thedevdojo/wave) - An open-source Software as a Service (SaaS) Starter Kit ([Laravel Spark](https://spark.laravel.com/) alternative) \[04/14/2021\]
+- [badaso-starter](https://github.com/uasoft-indonesia/badaso-starter) - Project starter with badaso. and [badaso-starter-server](https://github.com/uasoft-indonesia/badaso-starter-server) - The build project for new Badaso apps. \[10/11/2023\]
 
+  
 ### Database/Eloquent/Models
 - [Analogue](https://github.com/analogueorm/analogue) - Intuitive, fluent data mapper ORM for Laravel and PHP. \[07/15/2015\]
 - [Apify](https://github.com/ConsoleTVs/Apify) - API generator for Laravel that allows JSON access to any model/table. \[01/07/2017\]
